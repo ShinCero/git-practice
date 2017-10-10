@@ -1,0 +1,3 @@
+name: Marcos A Palacios III
+age: 35
+favorite color: varies (black)
